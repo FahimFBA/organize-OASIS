@@ -26,4 +26,4 @@ year = {2024}
 - [License](#license)
 - [Additional](#additional)
 
-🎁 The entire project is live at [fahimfba.github.io/organize-ADNI](https://fahimfba.github.io/organize-ADNI/)
+🎁 The entire project is live at [fahimfba.github.io/organize-OASIS](https://fahimfba.github.io/organize-OASIS/)
