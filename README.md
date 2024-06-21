@@ -6,11 +6,11 @@
 If you use this repository, please cite it as below.
 
 ```markdown
-@software{Amin_organize-ADNI_2024,
+@software{Amin_organize-OASIS_2024,
 author = {Amin, Md. Fahim and Khan, Israt},
 month = jun,
-title = {{organize-ADNI}},
-url = {https://github.com/FahimFBA/organize-ADNI},
+title = {{organize-OASIS}},
+url = {https://github.com/FahimFBA/organize-OASIS},
 version = {2.0.4},
 year = {2024}
 }
