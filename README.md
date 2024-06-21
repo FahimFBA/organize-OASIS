@@ -19,11 +19,8 @@ year = {2024}
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
-- [Screenshot](#screenshot)
-- [Prerequisites](#prerequisites)
-- [How to use](#how-to-use)
-- [Experiment](#experiment)
-- [License](#license)
-- [Additional](#additional)
 
 🎁 The entire project is live at [fahimfba.github.io/organize-OASIS](https://fahimfba.github.io/organize-OASIS/)
+
+## Introduction
+The Open Access Series of Imaging Studies (OASIS) is a project aimed at making neuroimaging data sets of the brain freely available to the scientific community that contains the data of subjects with Nondemented, Very Mild Dementia, Mild Dementia, and Moderate Dementia. The dataset is organized into different directories. This repository contains all the scripts that were used to modify the OASIS-1 given `.xlsx` file and the entire dataset.
